@@ -17,9 +17,7 @@ Please fill out the checklist below before opening the PR.
   - Example: `library/book-1.md`, `library/book-2.md`, `books.json`
 
 ## Checklist (all required)
-- [ ] I confirm this PR includes at least 5 books in the library (files in `library/` or entries in `books.json`).
-- [ ] Each book includes a title and author.
-- [ ] Each book has a short description (1-3 sentences) or metadata where applicable.
+- [ ] I confirm this PR includes at least 5 books in the library (files in `library/` and entries in `books.json`).
 - [ ] I updated any relevant docs or README if the structure changed.
 - [ ] The repository builds/tests (if applicable) pass locally.
 
